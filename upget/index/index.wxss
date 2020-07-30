@@ -1,0 +1,8 @@
+.item {
+  width: 70vw;
+  margin: 5vw auto;
+  text-align: center;
+  background-color: bisque;
+  padding: 10vw;
+  border-radius: 2vw;
+}
